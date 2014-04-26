@@ -2,4 +2,6 @@
 *.iml
 target/
 pom.xml.releaseBackup
-release.properties.gradle/
+release.properties
+.gradle/
+
